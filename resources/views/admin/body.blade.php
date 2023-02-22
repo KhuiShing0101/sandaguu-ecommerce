@@ -56,7 +56,7 @@
                                 </div>
                             </div>
                         </div>
-                        <h6 style="text-align: center;margin-top:30px; font-size:40px;">Total Customers</h6>
+                        <h6 style="text-align: center;margin-top:50px; font-size:40px;">Total Customers</h6>
                     </div>
                 </div>
             </div>
